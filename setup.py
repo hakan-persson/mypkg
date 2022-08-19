@@ -9,7 +9,7 @@ with open('requirements.txt') as fr:
 
 setuptools.setup(
     name="mypkg",
-    version="0.0",
+    version="0.1",
     author="Håkan Persson",
     author_email="hakan.persson@haninge.se",
     description="A public github-hosted python package for test, with dependency.",
